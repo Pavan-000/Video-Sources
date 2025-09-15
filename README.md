@@ -1,8 +1,11 @@
-# Video Sources : 
-     Deploy the Full Stack App in 10 ways from Vercel, Virtual Machines,  Kubernetes
-     https://www.youtube.com/watch?v=gViEtIJ1DCw&t=4s
+## Video Sources
+
+  Deployment of Web Apps from vercel , VM , Kubernetes, DNS, adding it to the CDN, load balancers : 
+  
+  https://www.youtube.com/watch?v=TZ5a3gCCZYo
      
     
+
 
 
 
